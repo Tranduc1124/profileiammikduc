@@ -45,7 +45,7 @@ function onCreate() {
   
   function Youtube() {
 	setTimeout(function() {
-	  window.open('Đang Update', 'ultimate')},
+	  window.open('https://tranduc1124.github.io/404byduc/', 'ultimate')},
 	100);
   }
   function Facebook() {
